@@ -15,7 +15,12 @@ https://twitter.com/maker5043
 Finalmente les agradezco todos sus comentarios y sugerencias y no olviden suscribirse marcando la campanita para estar al día con los videos que estaré subiendo.
 
 Los principales elementos usados son:
+
 Sensor Audio KY-037
+
 Arduino ATTINY Digispark Attiny85 Micro Miniature Microcontroller USB Development Board Module
+
 Transistor 2N5551
+
 LedStrip 12Vdc.
+
